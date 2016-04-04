@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="broad_marge">10dp</dimen>
+    <dimen name="broad_out_rect_storck">3dp</dimen>
+    <dimen name="broad_line_width">1dp</dimen>
+    <dimen name="circle__radiu">4dp</dimen>
+</resources>
